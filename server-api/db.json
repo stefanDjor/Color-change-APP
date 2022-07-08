@@ -1,0 +1,34 @@
+{
+  "colors": [
+    {
+      "id": "1",
+      "name": "red",
+      "hex": "#ff0000"
+    },
+    {
+      "name": "blue",
+      "hex": "#0000ff",
+      "id": "TwqTjEm"
+    },
+    {
+      "name": "yellow",
+      "hex": "#ffff00",
+      "id": "lgWdyhR"
+    },
+    {
+      "name": "Purple",
+      "hex": "#a30b76",
+      "id": "GE80KEp"
+    },
+    {
+      "name": "orange",
+      "hex": "#FFBF00",
+      "id": "u-FOA2o"
+    },
+    {
+      "name": "red",
+      "hex": "#ff0000",
+      "id": "sMpQ6_8"
+    }
+  ]
+}

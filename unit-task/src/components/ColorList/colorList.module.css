@@ -1,0 +1,10 @@
+.colors {
+  width: 80%;
+  display: flex;
+  gap: 40px;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  padding-top: 40px;
+  margin: 0 auto;
+}
